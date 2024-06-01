@@ -3,7 +3,7 @@
 <h1 align="left">Markcy's Repositories</h1>
 <br/>
 
-- 👨‍💻 I’m currently working on **PLM Academic Management System ERP Module**, **Cosmic Script Compiler**, **Project Enjoyce Travel and Tours Mobile Application**, **PLM Mobile Application**, 
+- 👨‍💻 I’m currently working on **PLM Academic Management System ERP Module**, **Cosmic Script Compiler**, **Project Enjoyce Travel and Tours Mobile Application**, and **PLM Mobile Application**, 
 - 🌱 I’m currently learning **Machine Learning**,**Web Development**, **UI/UX Design**, **Game Development**, and **Mobile Development**  
 - 🤔 I’m looking for help with **REACT**, **ANGULAR**, **Node.js** to enhance my **Web Development Skills**
 - 📫 How to reach me: **marksy.petras7@gmail.com**, **[Mark Cristopher Petras || Facebook](https://www.facebook.com/profile.php?id=100009266823553)**
