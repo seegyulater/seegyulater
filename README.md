@@ -39,5 +39,8 @@
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue.svg?style=for-the-badge&logo=visual-studio-code)
 
+### Github Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=encyklopedia&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-cristopher-petras-4b2b2721a/)
