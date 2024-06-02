@@ -9,7 +9,6 @@
 - 📫 How to reach me: **marksy.petras7@gmail.com**, **[Mark Cristopher Petras || Facebook](https://www.facebook.com/profile.php?id=100009266823553)**
 - 😄 Pronouns: They/Them
 <br/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/encyklopedyuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markcypetras" height="30" width="40" /></a>
@@ -17,7 +16,6 @@
 <a href="https://www.instagram.com/encyklopedyuh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="markcypetras" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-
 ### Cloud Storage 📂
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
@@ -76,7 +74,6 @@
 ### Version Control 🕓
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 <p>&nbsp;</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seegyulater&show_icons=true&locale=en&layout=compact" alt="seegyulater" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seegyulater&show_icons=true&locale=en" alt="seegyulater" /></p>
