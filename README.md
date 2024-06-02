@@ -8,9 +8,7 @@
 - 🤔 I’m looking for help with **REACT**, **ANGULAR**, **Node.js** to enhance my **Web Development Skills**
 - 📫 How to reach me: **marksy.petras7@gmail.com**, **[Mark Cristopher Petras || Facebook](https://www.facebook.com/profile.php?id=100009266823553)**
 - 😄 Pronouns: They/Them
-
 <br/>
-
 #### These are the tools/languages that I use:
 
 ### Cloud Storage 📂
