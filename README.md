@@ -10,7 +10,13 @@
 - 😄 Pronouns: They/Them
 <br/>
 
-### These are the tools/languages that I use:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/encyklopedyuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markcypetras" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mark-cristopher-petras-4b2b2721a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markcypetras" height="30" width="40" /></a>
+<a href="https://www.instagram.com/encyklopedyuh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="markcypetras" height="30" width="40" /></a>
+
+<h3 align="left">Languages and Tools:</h3>
 
 ### Cloud Storage 📂
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
@@ -73,11 +79,6 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seegyulater&show_icons=true&locale=en&layout=compact" alt="seegyulater" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seegyulater&show_icons=true&locale=en" alt="seegyulater" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seegyulater&" alt="seegyulater" /></p>
 
-
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-cristopher-petras-4b2b2721a/)
