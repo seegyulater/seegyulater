@@ -75,8 +75,6 @@
 ### Version Control 🕓
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<p>&nbsp;</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seegyulater&show_icons=true&locale=en&layout=compact" alt="seegyulater" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seegyulater&show_icons=true&locale=en" alt="seegyulater" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seegyulater&" alt="seegyulater" /></p>
 
