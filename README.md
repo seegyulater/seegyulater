@@ -86,8 +86,7 @@
 </div>
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=seegyulater&theme=highcontrast&title_color=fb8c00&custom_title=All-time+WakaTime+Stats&layout=compact&langs_count=8"
-    alt="seegyulater's WakaTime stats"
+    [![wakatime](https://wakatime.com/badge/user/ca8f1147-f47c-4d31-863d-66c720cd7807.svg)](https://wakatime.com/@ca8f1147-f47c-4d31-863d-66c720cd7807)
   />
 </div>
 
