@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Markcy+Petras!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Philippines ph</h3>
+<h3 align="center">A passionate software developer from Philippines ph  .PH { width:23px; height:12px; display:inline-block; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAMCAMAAAC+5dbKAAAAjVBMVEUANKjNDSMCO6v////PFiu9LD29MED//O7//N2sTVcMNJ/UECJEYZr94F2/Ei6xwuB/m9P/98z+8b//9bsxXrgYS7H+763oi5X+6o7UWWnQHDG/FDD80x/m6/X6+/HM1+3m5db10dXP1cz648tVe8ZScLnusbb40LTYra1Pa6NKX5T95HenYGjXQVHUKTrGaz/7AAAAjElEQVQY022N1xLCIBBFd5dEQE0xxZjYe/f/P88FJvCQ3MMwl8MOQFbBSJ5QHvLaNAqLMwchxP5iOgXIeSWzisKFqezlclWoXV4TsbKbm1fJJlkIeboCTD0v9m/r7y1iyqyZFLV9p1TbpkPEmUe7f29ftpEHnT+2poZExhfn5sd9MP/QXTyxifvw+fMH8YIHtHJDlVAAAAAASUVORK5CYII=) top left no-repeat; }
+</h3>
 
 <br/>
  
