@@ -36,7 +36,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=seegyulater&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" alt="streak stats"/>
   <br/>
 </div>
 
