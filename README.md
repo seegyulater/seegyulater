@@ -23,8 +23,6 @@
   </a>
 </div>
 
- <hr/>
-
 ---
 
 ## 🧠 My Favorite Stack
@@ -42,8 +40,6 @@
   
   <br/><br/><br/>
 </div>
-
-<hr/>
 
 ---
 
