@@ -10,8 +10,6 @@
 
 <h3 align="center">I'm a passionate software developer from the Philippines
 </h3>
-
-<br/>
  
 <div align="center"> 
   <a href="mailto:marksy.petras7@gmail.com">
