@@ -1,10 +1,16 @@
+# 👋 Hey, I'm Markcy👨‍💻
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;Markcy+Petras;" alt="Typing SVG" />
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Markcy+Petras!;" />
-</h1>
+---
 
-<h3 align="center">A passionate software developer from the Philippines
+## 🚀 About Me
+
+<h3 align="center">I'm a passionate software developer from the Philippines
 </h3>
 
 <br/>
@@ -23,6 +29,16 @@
 
  <hr/>
 
+---
+
+## 🧠 My Favorite Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+---
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -33,11 +49,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" alt="streak stats"/>
-  <br/>
-</div>
+---
 
-<br/>
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seegyulater&show_icons=true&theme=react&hide=contribs&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seegyulater&theme=react" />
+</div>
